@@ -1,7 +1,7 @@
 ### Welcome Everyone!!!🤗🤗
 <img align="right" width="200px" src= "https://media.tenor.com/FABadXdQ65MAAAAC/hi-hello.gif" >  
 
-I'm Junyi currently Year 3 student from Data Engineering Course in [Universiti Teknologi Malaysia](https://www.utm.my/).
+I'm Junyi currently Final year student from Data Engineering Course in [Universiti Teknologi Malaysia](https://www.utm.my/).
 
 ---
 
